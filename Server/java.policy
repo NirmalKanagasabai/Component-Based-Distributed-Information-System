@@ -1,1 +1,5 @@
+grant codeBase "file:/home/2016/asingh58/phase3/servercode" {
+    permission java.security.AllPermission;
+};
+
 
