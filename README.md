@@ -1,4 +1,4 @@
-# Component-Based-Distributed-System
+# Component-Based-Distributed-Information-System
 
 A component-based distributed travel reservation system was developed using both TCP and RMI. 
 More functionalities that were added on the RMI flavored system includes:
